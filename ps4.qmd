@@ -1,6 +1,6 @@
 ---
 title: "Problem Set 4"
-author: "Alejandro Valdivia"
+author: "Alejandra Patino"
 date: "2026-02-06"
 format: 
   pdf:
